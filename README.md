@@ -2,6 +2,9 @@
 
 A high-performance, cinematic web experience built to showcase a premier luxury destination. Designed with a video-first approach and advanced motion physics to create an immersive digital journey.
 
+## 🌐 Live Experience
+**Deploy Link:** [https://mall-pearl-sigma.vercel.app/](https://mall-pearl-sigma.vercel.app/)
+
 ## 🚀 Tech Stack
 - **Framework:** React 19 (Vite)
 - **Styling:** Tailwind CSS v4 (Modern configuration)
