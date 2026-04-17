@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+:root {
+  --color-gold: #d4af37;
+  background-color: #0a0a0a;
+  color: white;
+}
+
+/* Tailwind custom colors using standard CSS variables */
+@theme {
+  --color-gold: var(--color-gold);
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+
+section {
+  scroll-snap-align: start;
+}
+
+.scroll-container {
+  /* scroll-snap-type: y mandatory; */
+  overflow-y: auto;
+  height: auto;
+}
